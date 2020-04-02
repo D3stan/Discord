@@ -1,0 +1,16 @@
+/give @p netherite_helmet{Enchantments:[{id:frost_walker,lvl:1000},{id:protection,lvl:1000},{id:fire_protection,lvl:1000},{id:feather_falling,lvl:1000},{id:blast_protecion,lvl:1000},{id:projectile_protection,lvl:1000},{id:aqua_affinity,lvl:1000},{id:thorns,lvl:1000},{id:depth_strider,lvl:1000},{id:soul_speed,lvl:1000},{id:respiration,lvl:1000}]}
+
+/give @p netherite_chestplate{Enchantments:[{id:frost_walker,lvl:1000},{id:protection,lvl:1000},{id:fire_protection,lvl:1000},{id:feather_falling,lvl:1000},{id:blast_protecion,lvl:1000},{id:projectile_protection,lvl:1000},{id:aqua_affinity,lvl:1000},{id:thorns,lvl:1000},{id:depth_strider,lvl:1000},{id:soul_speed,lvl:1000},{id:respiration,lvl:1000}]}
+
+/give @p netherite_leggings{Enchantments:[{id:frost_walker,lvl:1000},{id:protection,lvl:1000},{id:fire_protection,lvl:1000},{id:feather_falling,lvl:1000},{id:blast_protecion,lvl:1000},{id:projectile_protection,lvl:1000},{id:aqua_affinity,lvl:1000},{id:thorns,lvl:1000},{id:depth_strider,lvl:1000},{id:soul_speed,lvl:1000},{id:respiration,lvl:1000}]}
+
+/give @p netherite_boots{Enchantments:[{id:frost_walker,lvl:1000},{id:protection,lvl:1000},{id:fire_protection,lvl:1000},{id:feather_falling,lvl:1000},{id:blast_protecion,lvl:1000},{id:projectile_protection,lvl:1000},{id:aqua_affinity,lvl:1000},{id:thorns,lvl:1000},{id:depth_strider,lvl:1000},{id:soul_speed,lvl:1000},{id:respiration,lvl:1000}]}
+
+
+/replaceitem block 10004 68 10130 container.0 netherite_boots{Enchantments:[{id:frost_walker,lvl:1000},{id:protection,lvl:1000},{id:fire_protection,lvl:1000},{id:feather_falling,lvl:1000},{id:blast_protecion,lvl:1000},{id:projectile_protection,lvl:1000},{id:aqua_affinity,lvl:1000},{id:thorns,lvl:1000},{id:depth_strider,lvl:1000},{id:soul_speed,lvl:1000},{id:respiration,lvl:1000}]}
+
+/replaceitem block 10004 69 10130 container.0 netherite_chestplate{Enchantments:[{id:frost_walker,lvl:1000},{id:protection,lvl:1000},{id:fire_protection,lvl:1000},{id:feather_falling,lvl:1000},{id:blast_protecion,lvl:1000},{id:projectile_protection,lvl:1000},{id:aqua_affinity,lvl:1000},{id:thorns,lvl:1000},{id:depth_strider,lvl:1000},{id:soul_speed,lvl:1000},{id:respiration,lvl:1000}]} 
+
+/replaceitem block 10004 70 10131 container.0 netherite_helmet{Enchantments:[{id:frost_walker,lvl:1000},{id:protection,lvl:1000},{id:fire_protection,lvl:1000},{id:feather_falling,lvl:1000},{id:blast_protecion,lvl:1000},{id:projectile_protection,lvl:1000},{id:aqua_affinity,lvl:1000},{id:thorns,lvl:1000},{id:depth_strider,lvl:1000},{id:soul_speed,lvl:1000},{id:respiration,lvl:1000}]}
+
+/replaceitem block 10004 69 10132 container.0 netherite_leggings{Enchantments:[{id:frost_walker,lvl:1000},{id:protection,lvl:1000},{id:fire_protection,lvl:1000},{id:feather_falling,lvl:1000},{id:blast_protecion,lvl:1000},{id:projectile_protection,lvl:1000},{id:aqua_affinity,lvl:1000},{id:thorns,lvl:1000},{id:depth_strider,lvl:1000},{id:soul_speed,lvl:1000},{id:respiration,lvl:1000}]}
